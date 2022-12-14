@@ -1,2 +1,3 @@
 # MARCELO-MELENDRES
-POO
+programacion oriantada a objetos
+
